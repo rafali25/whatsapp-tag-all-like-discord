@@ -28,7 +28,7 @@ Press Shift (right shift) to activate the tagging feature.
 The script will then automatically type @, navigate down to the next user, press Enter, and repeat until the specified number of tags has been entered.
 
 ## Stopping the Script:
-Press the Escape (Esc) key to stop the script.
+Press the Escape (Esc) key (3 times) to stop the script.
 
 ## Example Usage
 Input: "@allwp5" (in WhatsApp chat)
