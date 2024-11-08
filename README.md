@@ -15,24 +15,22 @@ This project relies on the following Python libraries:
 
 You can install the required dependencies using the command below:
 
-```bash
-pip install pynput pyautogui
 
-How to Use:-
-just open the executable file and it will work
 
+## How to Use:-
+just open the executable file and it will work.
 Once running, the script will monitor your keyboard for the pattern @allwp<number>.
 For example, typing @allwp5 will trigger the tagging process for 5 members.
 
-Typing the Pattern:
+## Typing the Pattern:
 Type @allwp<number> in any input field in the WhatsApp group (e.g., @allwp10 for 10 members).
 Press Shift (right shift) to activate the tagging feature.
 The script will then automatically type @, navigate down to the next user, press Enter, and repeat until the specified number of tags has been entered.
 
-Stopping the Script:
+## Stopping the Script:
 Press the Escape (Esc) key to stop the script.
 
-Example Usage
+## Example Usage
 Input: "@allwp5" (in WhatsApp chat)
 Trigger: Press Right Shift
 Result: Automatically tags 5 members in the chat.
